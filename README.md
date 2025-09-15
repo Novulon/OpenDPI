@@ -1,8 +1,12 @@
 # UnblockDPI — Deep Packet Inspection
 Have you ever wanted to visit blocked websites?
+
 It's your lucky day mate, this is a DPI that runs on startup, never shows a window, and unblocks everything for aslong as you live, unless you decide to uninstall it which only takes 5 seconds.
+
 This DPI acts like a VPN in every form but with Improved Internet speeds and faster loading.
+
 Be wary: this program does not change your IP address, your location, or your life choices.
+
 
 Purpose:
 
