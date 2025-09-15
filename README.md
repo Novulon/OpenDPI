@@ -1,7 +1,7 @@
 # UnblockDPI — Deep Packet Inspection
 This is a DPI that unblocks almost everything that is blocked.
 
-Benefits:
+Purpose:
 
 -Unlocks most blocked Websites and Programs
 -Slightly faster Wi-Fi Speeds (beta)
