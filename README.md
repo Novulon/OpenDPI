@@ -3,7 +3,7 @@ This is a DPI that unblocks almost everything that is blocked.
 
 Purpose:
 
--Unlocks most blocked Websites and Programs
+-Unblocks most blocked Websites and Programs
 
 -Slightly faster Wi-Fi Speeds (beta)
 
