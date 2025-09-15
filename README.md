@@ -1,5 +1,6 @@
 # UnblockDPI — Deep Packet Inspection
-This is a DPI that unblocks almost everything that is blocked.
+Have you ever wanted to visit blocked websites?
+It's your lucky day mate, this is a DPI that runs on startup, never shows a window, and unblocks everything for aslong as you live until you decide to uninstall it which takes 5 seconds
 
 Purpose:
 
