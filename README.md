@@ -1,5 +1,5 @@
 # UnblockDPI — Deep Packet Inspection
-This is a DPI that unlocks anything and everything that is blocked.
+This is a DPI that unblocks almost everything that is blocked.
 
 Benefits:
 
